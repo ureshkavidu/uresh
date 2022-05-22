@@ -1,7 +1,7 @@
 {
     "name": "Raganork MD",
     "description": "multi device based WhatsApp Public/User bot.",
-    "logo": "https://www.linkpicture.com/q/rgnk.jpg",
+    "logo": "https://i.imgur.com/l2CY2sS.jpeg",
     "keywords": ["WhatsApp", "Userbot", "Raganork", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/souravkl11/Raganork",
     "website":   "https://bit.ly/Raganork",
@@ -71,7 +71,7 @@
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
             "required": false,
-            "value":"919074309534"
+            "value":"94714831387"
         },
         "ALIVE": {
             "description": "Alive message {image/link}, {sender} can also be used",
